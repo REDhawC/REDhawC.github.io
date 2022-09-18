@@ -7,6 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Please do not hesitate to contact me if you need any further information.
+You can check my [CV](/cv), [contact information](/contact), and find more details about [my projects](/Projects) here. 
 

@@ -5,6 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
+Please do not hesitate to contact me if you need any further information.😃
+
+
 **Phone Number**
 
 
