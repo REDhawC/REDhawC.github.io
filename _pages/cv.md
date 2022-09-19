@@ -13,7 +13,7 @@ Education
 ======
 * **Bachelor of Management in Accounting, Nanjing Agricultural University (NAU), School of Finance**  
   * 09/2019 - current
-  * GPA: 3.63/4.0 (90.52/100); Ranking: Top 20%
+  * GPA: 3.89/4.0 (90.52/100); Ranking: Top 20%
   * GPA: Honor: Second Prize Scholarship (2019)
   * Core Courses: Big Financial Data Analysis(A), Python Programming(A), Management Information System(A), Applied Statistics(A), Econometrics(A), Linear Algebra(A), Calculus, Probability Theory and Mathematical Statistics, Advanced Financial Accounting(A), Auditing(A), etc.
 
